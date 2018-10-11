@@ -156,16 +156,14 @@ body{
 .textCenter{
     color: #fff;
     text-align: center;
-    line-height: 180px;
-    height: 225px;
     letter-spacing: 3.8px;
 
 }
 
 .select{
     font-family: sans-serif;
-    margin-left: 293px;
     margin-bottom: 79px;
+    margin-top: 54px;
     font-size: 28px;
     width: 452px;
     height: 48px;
@@ -177,6 +175,7 @@ body{
 
 .popular{
     margin: 0 auto;
+    margin-top: 157px;
     text-align: center;
     width: 800px;
     height: 65px;
